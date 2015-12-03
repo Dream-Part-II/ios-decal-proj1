@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "171CF2FC691A30B6EDEF345EE5D38C137643414F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "171CF2FC691A30B6EDEF345EE5D38C137643414F" : 0,
+    "B975C1B9DA8F8931DF7B7EC577607188199E1632" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "95915989-30C2-4992-AA30-94367A0EBE1E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "171CF2FC691A30B6EDEF345EE5D38C137643414F" : "git-swift-todo-tutorial",
+    "B975C1B9DA8F8931DF7B7EC577607188199E1632" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Todo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Todo\/Todo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jadekler\/git-swift-todo-tutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "171CF2FC691A30B6EDEF345EE5D38C137643414F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Dream-Part-II\/ios-decal-proj1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B975C1B9DA8F8931DF7B7EC577607188199E1632"
+    }
+  ]
+}
